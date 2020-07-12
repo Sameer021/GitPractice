@@ -1,1 +1,10 @@
+HEAD
 Hi i am file1 in Branch1
+Changees made from here
+and the same exist in Branch2
+Chnages made till here 
+Hi i am file2 in Branch2 
+2
+2
+222
+Branch2
