@@ -2,3 +2,6 @@ Hi i am file2 in Branch2
 2
 2
 222
+
+
+Newly add line
